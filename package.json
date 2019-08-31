@@ -1,0 +1,23 @@
+{
+  "name": "jobscraper",
+  "version": "1.0.0",
+  "description": "I AM A GOLDEN GOD",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SleepyJosus/jobScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SleepyJosus/jobScraper/issues"
+  },
+  "homepage": "https://github.com/SleepyJosus/jobScraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^1.19.0"
+  }
+}
